@@ -1,0 +1,189 @@
+**Ultimate Nutrition**
+
+
+**BCAA Softgels**
+
+
+It has long been established that protein is an essential nutrient that needs to be obtained from
+our diets. The ultimate value of a protein source is its amino acid composition. Basically, a
+protein molecule is a long chain of amino acids linked by peptide bonds (i.e., an amino acid
+linked to another amino acid). Hundreds of different amino acids exist in nature; however, only
+twenty-two are typically found as components in human peptides or proteins. These amino
+acids are joined in varying combinations, each having a distinct amino-acid sequence which
+determines its specific shape and function. Once digested and absorbed, these amino acids play
+central roles as building blocks of proteins and as intermediates in metabolism, thereby
+controlling virtually all cellular process and reactions in living cells. Scientists, experts, and
+medical professionals all agree that getting enough amino acids in one's diet is an important
+factor in maintaining proper nutrition. In recent years, especially in the fitness industry, the
+emphasis has shifted from using protein to consuming specific amino acids. [1,2,3] Many
+physiological processes related to bodybuilding, from energy, recovery, muscle hypertrophy, to
+strength gains, are linked to amino acids.
+
+Twenty-two amino acids have been identified that are naturally incorporated into polypeptides
+(i.e., long chain of amino acids) and are called proteinogenic (used in the production of protein).
+Of the twenty-two amino acids, eight are labelled “essential” amino acids because the human
+body cannot synthesize them from other compounds, so they must be obtained from our diet.
+The remaining fourteen amino acids are “non-essential” because they can be made in the body.
+The term non-essential can be misleading since several amino acids are actually semi-essential
+in children because the metabolic pathways that synthesize these amino acids are not fully
+developed. [5,6] Even more confusing is the fact that some amino acids become conditionally
+essential, meaning they are not normally required in the diet but must be supplied exogenously
+to specific populations that do not synthesize them in adequate amounts. The amounts required
+also depend on the age and health of the individual, so it is hard to make general statements
+about the dietary requirement for some amino acids. [7,8] This is why you will see some variation in
+the number of essential and non-essential amino acids printed in articles. Failure to obtain
+enough of even one of the essential amino acids results in degradation of the body's proteins
+(e.g., muscle tissue).
+
+The branched chain amino acids leucine, isoleucine, and valine are classified among the
+essential amino acids. They are very important for active individuals, bodybuilders, and
+professional athletes since they influence various aspects of muscle metabolism. The “branched
+chain” designation refers to their unique chemical structure. The combination of these three
+BCAAs makes up approximately 1/3 of skeletal muscle in the human body. [9] The body requires
+higher amounts of BCAAs during and following exercise as they are taken up directly by the
+skeletal muscles versus other amino acids that are first metabolized through the liver. BCAAs are
+unique in that they can be used to either build new proteins or be burned as fuel to produce
+energy. [10] The largest amounts of BCAAs can be found in dairy (e.g., milk, whey, and casein), red
+meat, and eggs. Although they are present in all foods containing protein, supplementing your
+diet with additional BCAAs provides a definite advantage.
+
+
+Privileged & Confidential                                                               Page 1 of 4
+These statements have not been evaluated by the Food and Drug Administration
+
+
+The human body requires a steady supply of amino acids since there is a constant flux of protein
+turnover, especially surrounding exercise. During exercise, increased oxidation of the BCAAs is
+generally recognized as the signal to the body to stop protein synthesis in the muscles. [2] The
+body uses the BCAAs during exercise to maintain energy and make glucose. After an acute bout
+of resistance exercise, oxidation continues. Although protein synthesis in skeletal muscle is
+elevated after exercise, so is protein degradation. In the absence of nutrition, the body will
+remain in negative nitrogen balance, meaning catabolism (i.e., protein break down) exceeds
+anabolism (i.e., protein synthesis). Consuming BCAAs before or after exercise can reduce protein
+breakdown, increase protein synthesis, and stimulate the release of insulin. [11,12,13,14] Insulin is an
+anabolic hormone usually associated with building various energy molecules in the body (e.g.,
+glycogen and triglycerides) and with preventing the breakdown of muscle following periods of
+physical stress (e.g., exercise), thereby preserving muscle mass. [13,14] Current research has
+demonstrated that BCAAs may block what is called delayed-onset muscle soreness following
+intense training. [9] Several studies suggest that BCAAs influence delayed onset muscle soreness
+and the markers of muscle damage associated with intense exercise (e.g., endurance and
+resistance exercise). Less muscle damage and less soreness mean faster recovery and a quicker
+return to training.
+
+BCAAs have also been shown to have a positive effect on mood and mental function in
+endurance athletes. Although limited, research supports the idea that the BCAAs can decrease
+serotonin in the brain (serotonin can cause a sense of tiredness), thereby lowering mental
+fatigue and maintaining mental acuteness during prolonged endurance exercise. [15,16] Low levels
+of the BCAAs also contribute to fatigue and should be replaced following exercise or
+participation in a competitive event. Research has revealed that the BCAAs help to prevent
+fatigue and maintain muscle mass and strength during times of physical stress such as intense
+workouts. [1]
+
+Leucine has recently been shown to have its own anabolic (i.e., muscle-building) abilities by
+influencing various signalling cascades and chemical signals that activate protein synthesis. [10]
+Through phosphyorylaton of mammalian target of rapamycin (mTor ), a key regulator of cell
+growth and protein synthesis, leucine, along with the other two BCAAs, transforms the body
+into a muscle-building machine. [17,18] In simple terms, the body is switched into an anabolic state
+using available amino acids to build hard, dense muscle. To obtain the greatest benefit from
+BCAA supplements, you must ensure that you get enough protein from your diet to support an
+increased ability to grow.
+
+Bodybuilders, athletes, weekend warriors who weight train regularly, and endurance athletes
+who regularly compete in aerobic events such as running, cycling, or swimming will benefit from
+BCAA supplementation. Supplementation of BCAAs will help meet the increased demand the
+body requires under times of stress. Numerous studies have shown that BCAAs can enhance
+energy levels, build muscle, and speed recovery under a variety of metabolic conditions. Aside
+from playing an important role in protein synthesis, the BCAAs provide extra energy during
+heavy lifting, help spare muscle tissue, and fight mental brain drain as you battle through a
+workout. BCAAs can be taken at anytime during the day, preferably on an empty stomach to
+avoid competition for absorption with other amino acids; however, the most beneficial times to
+take the BCAAs are directly before or just after training. Currently, it is difficult to provide an
+exact dose of BCAAs per kg body weight that influences muscle growth and prevents
+
+breakdown.
+
+
+Privileged & Confidential                                                               Page 2 of 4
+These statements have not been evaluated by the Food and Drug Administration
+
+
+**FAQs**
+**Q: What is the amount and ratio of BCAAs found in BCAA Softgels?**
+**A:** BCAA Softgels offer 500 mg of BCAAs in a 2:1:1 ratio of leucine (250 mg), isoleucine (125
+mg) and valine (125 mg) per softgel.
+
+**Q: How do I take BCAA Softgels?**
+**A:** Take 1 softgel 2-3 times per day. For optimal use, take between meals and immediately
+after a training session.
+
+**REFERENCES**
+
+1. Matsumoto K, Koba T, Hamada K, Sakurai M, Higuchi T, Miyata H. (2009). Branched
+chain amino acid supplementation attenuates muscle soreness, muscle damage and
+inflammation during an intensive training program. _J Sports Med Phys Fitness_ . 49(4):
+424-431
+
+2. Shimomura, Y., et al. (2004). Exercise promotes BCAA catabolism: Effects of BCAA
+
+supplementation on skeletal muscle during exercise. J Nutr. 134:1583S-1587S.
+3. Apro & Blomstrand. (2010). Influence of supplementation with branched-chain amino
+
+acids in conjunction with resistance exercise on p70 [S6] kinase phosphorylation in resting
+and exercising human skeletal muscle. Acta Physiol. 200(3):237-248
+4. [Pisarewicz K et al. (2005). Polypeptide chains containing D-gamma-hydroxyvaline. J Am](http://www.ncbi.nlm.nih.gov/pubmed?term=%22Pisarewicz%20K%22%5BAuthor%5D)
+
+[Chem Soc. 2005. 127(17):6207-15.](javascript:AL_get(this,%20'jour',%20'J%20Am%20Chem%20Soc.');)
+5. [Imura K & Okada A.(1998). Amino acid metabolism in pediatric patients. Nutrition.](http://www.ncbi.nlm.nih.gov/pubmed?term=%22Imura%20K%22%5BAuthor%5D)
+
+14(1):143-8.
+6. [Lourenço R & Camilo ME. (2002). Taurine: a conditionally essential amino acid in](http://www.ncbi.nlm.nih.gov/pubmed?term=%22Louren%C3%A7o%20R%22%5BAuthor%5D)
+
+[humans? An overview in health and disease. Nutr Hosp. 17(6):262-70.](javascript:AL_get(this,%20'jour',%20'Nutr%20Hosp.');)
+7. Reeds PJ. Dispensable and indispensable amino acids for humans. J Nutr. 2000.
+
+(7):1835S-40S.
+8. Fürst P, Stehle P. (2004). What are the essential elements needed for the determination
+
+of amino acid requirements in humans? J Nutr. 34(6 Suppl):1558S-1565S.
+9. Shimomura, Y., et al. (2006). Nutraceutical effects of branched-chain amino acids on
+
+skeletal muscle. J Nutr. 136:529S-532S.
+10. Rennie M, Bohe J, Smith K, Wackerhage H, Greenhaff P. (2006). Branched-chain amino
+
+acids as fuels and anabolic signals in human sedlak muscle. _J. Nutr_ . 136(1 Suppl):264S268S.
+
+11. Tang, F. (2006). Influence of branched-chain amino acid supplementation on urinary
+
+protein metabolite concentrations after swimming. J Am Coll Nutr. 25:188-94.
+12. De Palo, E., et al. (2001). Plasma lactate, GH and GH-binding protein levels in exercise
+
+following BCAA supplementation in athletes. Amino Acids. 20:1-11.
+13. Ivy J. (2004). Regulation of muscle glycogen repletion, muscle protein synthesis and
+
+repair following exercise. _JISSN_ . 3:131-138
+14. Norton & Layman. (2006). Leucine regulates translation initiation of protein synthesis
+
+in skeletal muscle after exercise. J. Nutr. 136:533S-537S.
+15. Blomstrand E. 2001. Amino acids and central fatigue. Amino Acids. 20(1):25-34
+16. Smiga M, Kameishi M, Torii K. 2006. Exercise-dependent preference for a mixture of
+
+branched-chain amino acids and homeostatic control of brain serotonin in exercising
+rats. _J. Nutr_ . 136(2):548S-552S
+17. Blomstrand E, Eliasson J, Hakan K, Karlsson R, Kohnke R. (2006). Branched-chain amino
+
+acids activate key enzymes in protein synthesis after physical exercise _. J. Nutr_ . 136:
+269S-273S.
+
+
+Privileged & Confidential                                                               Page 3 of 4
+These statements have not been evaluated by the Food and Drug Administration
+
+
+18. Anthony, J. C., Yoshizawa, F., Anthony, T. G., Vary, T. C., Jefferson, L. S., & Kimball, S. R.
+
+(2000) Leucine stimulates translation inititation in skeletal muscle of postabsorptive
+rats via a rapamycin-sensitive pathway. J. Nutr. 130: 2413-2419.
+
+
+Privileged & Confidential                                                               Page 4 of 4
+These statements have not been evaluated by the Food and Drug Administration
