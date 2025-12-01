@@ -14,10 +14,16 @@ A unified toolkit combining the best of Claude's PDF skills and Docling capabili
 
 ## 🚀 Quick Start
 
-### Open in Codespaces
-1. Click **Code** → **Codespaces** → **Create codespace**
-2. Wait for setup (~2-3 minutes)
-3. Start converting PDFs!
+### Option A: GitHub Codespaces (Recommended - Everything Auto-Installs!)
+1. Click **Code** → **Codespaces** → **Create codespace on testa4**
+2. Wait for automatic setup (~2-3 minutes)
+3. Run: `python scripts/pdf_to_clean_json.py --batch ../pdfs/ ./output/products/ --keep-md`
+4. Done! ✨
+
+**See [CODESPACES_GUIDE.md](CODESPACES_GUIDE.md) for complete Codespaces instructions**
+
+### Option B: Local Setup
+See [SETUP_GUIDE.md](SETUP_GUIDE.md) for local installation
 
 ### First Commands
 ```bash
@@ -105,8 +111,13 @@ Reference the documentation:
 
 ## 📚 Documentation
 
-- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Installation & setup instructions
-- **[docs/DATABASE_WORKFLOW.md](docs/DATABASE_WORKFLOW.md)** - 🌟 PDF → JSON workflow for databases
+### Start Here
+- **[CODESPACES_GUIDE.md](CODESPACES_GUIDE.md)** - 🚀 Using in GitHub Codespaces (recommended!)
+- **[QUICK_START.md](QUICK_START.md)** - 🌟 Fast-track guide for database workflow
+- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Local installation & setup
+
+### Workflows & Guides
+- **[docs/DATABASE_WORKFLOW.md](docs/DATABASE_WORKFLOW.md)** - Complete PDF → JSON workflow
 - **[docs/WORKFLOWS.md](docs/WORKFLOWS.md)** - Step-by-step workflows
 - **[docs/README.md](docs/README.md)** - Full script reference
 - **[docs/COPILOT_GUIDE.md](docs/COPILOT_GUIDE.md)** - Using with Copilot
