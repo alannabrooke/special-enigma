@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Output directories
+output/
+*.pdf
+!examples/*.pdf
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Data files (generated)
+*.xlsx
+*.csv
+*_fields.json
+*_summary.json
+!examples/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

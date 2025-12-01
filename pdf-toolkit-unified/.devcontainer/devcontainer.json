@@ -1,0 +1,42 @@
+{
+  "name": "PDF Processing Toolkit",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  
+  "postCreateCommand": "bash setup.sh",
+  
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "yzhang.markdown-all-in-one"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "github.copilot.enable": {
+          "*": true
+        },
+        "editor.formatOnSave": true,
+        "files.associations": {
+          "*.md": "markdown"
+        }
+      }
+    }
+  },
+  
+  "mounts": [],
+  "forwardPorts": [],
+  "remoteUser": "vscode",
+  
+  "containerEnv": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONUNBUFFERED": "1"
+  }
+}

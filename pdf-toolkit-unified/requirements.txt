@@ -1,0 +1,25 @@
+# ===========================================
+# PDF Processing Toolkit - Dependencies
+# ===========================================
+
+# ----- Core PDF Libraries -----
+pypdf>=4.0.0              # PDF manipulation (merge, split, rotate, forms)
+pdfplumber>=0.10.0        # Text and table extraction with layout
+reportlab>=4.0.0          # PDF creation from scratch
+
+# ----- Document Conversion (Docling) -----
+# Converts PDFs to structured Markdown/JSON
+# Preserves headings, tables, lists, hierarchy
+docling>=2.0.0
+
+# ----- Image Processing & OCR -----
+pdf2image>=1.16.0         # Convert PDF pages to images
+pytesseract>=0.3.10       # OCR (requires tesseract system package)
+Pillow>=10.0.0            # Image manipulation
+
+# ----- Data Processing -----
+pandas>=2.0.0             # DataFrame operations for tables
+openpyxl>=3.1.0           # Excel export
+
+# ----- Optional: Faster PDF Rendering -----
+pypdfium2>=4.0.0          # Chrome's PDF library bindings
