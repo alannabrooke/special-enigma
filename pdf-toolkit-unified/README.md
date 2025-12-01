@@ -33,6 +33,21 @@ python scripts/pdf_to_markdown.py --batch ./scans/ ./output/ --ocr --all
 
 ## 📋 Script Reference
 
+### pdf_to_clean_json.py (🌟 NEW - Database Workflow)
+Complete workflow: PDF → Clean Markdown → Structured JSON for database indexing.
+
+```bash
+# Single file
+python scripts/pdf_to_clean_json.py product.pdf
+
+# Batch conversion with clean JSON output
+python scripts/pdf_to_clean_json.py --batch ./pdfs/ ./output/ --keep-md
+
+# Creates: Individual JSON files + combined database.json
+```
+
+**See [docs/DATABASE_WORKFLOW.md](docs/DATABASE_WORKFLOW.md) for complete guide**
+
 ### pdf_to_markdown.py (⭐ Primary Tool)
 Convert PDFs to structured Markdown using Docling.
 
@@ -90,9 +105,11 @@ Reference the documentation:
 
 ## 📚 Documentation
 
+- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Installation & setup instructions
+- **[docs/DATABASE_WORKFLOW.md](docs/DATABASE_WORKFLOW.md)** - 🌟 PDF → JSON workflow for databases
+- **[docs/WORKFLOWS.md](docs/WORKFLOWS.md)** - Step-by-step workflows
 - **[docs/README.md](docs/README.md)** - Full script reference
 - **[docs/COPILOT_GUIDE.md](docs/COPILOT_GUIDE.md)** - Using with Copilot
-- **[docs/WORKFLOWS.md](docs/WORKFLOWS.md)** - Step-by-step workflows
 
 ## 🏗️ Architecture
 
